@@ -1,0 +1,6 @@
+downloads/*
+__pycache__
+requests_downloads.py
+complete_urls.csv
+.DS_Store
+test_file.py
